@@ -2,7 +2,7 @@
 
 int main() {
 
-	printf("Hello World\n");
+	printf("Hello VisualStudio Git!\n");
 
 	return 0;
 }
