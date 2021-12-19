@@ -2,7 +2,7 @@
 
 int main() {
 
-	printf("Hello VisualStudio Git!\n");
+	printf("Hello World\n");
 
 	printf("新規ブランチでこの行を追加\n");
 
