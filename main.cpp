@@ -4,7 +4,7 @@ int main() {
 
 	printf("Hello VisualStudio Git!\n");
 
-	printf("新規ブランチでこの行を追加\n");
+	printf("繧ｳ繝ｳ繝輔Μ繧ｯ繝医ｒ襍ｷ縺薙☆縺溘ａ縺ｫ繝ｪ繝｢繝ｼ繝医〒螟画峩\n");
 
 	return 0;
 }
